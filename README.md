@@ -3,7 +3,7 @@
 <img align="center" src="https://media.discordapp.net/attachments/1149027807054278666/1248015425590263910/20240606_020145.jpg?ex=66622070&is=6660cef0&hm=b2ba25badd5b0bd1390e3bb969da0fc2379ef73519091fec5dc3f47fcdb0f41f&">
 
 [![Discord](https://img.shields.io/discord/974995947379646534?label=Discord&logo=discord)](https://discord.com/invite/VDPp2g5ECU)
-[![GitHub stars](https://img.shields.io/github/stars/devanshyadav2010/flux?style=social)](https://github.com/og-devcords/flux)
+[![GitHub stars](https://img.shields.io/github/stars/OG-Devcords/flux?style=social)](https://github.com/og-devcords/flux)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to Flux, a versatile Discord bot designed to enhance your server experience with advanced giveaway features.
@@ -40,7 +40,7 @@ Flux is a powerful and customizable Discord bot that provides robust giveaway fu
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devanshyadav2010/flux.git
+   git clone https://github.com/OG-Devcords/flux.git
    cd greethub
    ```
 
