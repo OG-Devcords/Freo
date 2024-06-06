@@ -4,10 +4,10 @@
 
 
 [![Discord](https://img.shields.io/discord/974995947379646534?label=Discord&logo=discord)](https://discord.com/invite/VDPp2g5ECU)
-[![GitHub stars](https://img.shields.io/github/stars/OG-Devcords/flux?style=social)](https://github.com/og-devcords/flux)
+[![GitHub stars](https://img.shields.io/github/stars/OG-Devcords/freo?style=social)](https://github.com/og-devcords/freo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to Flux, a versatile Discord bot designed to enhance your server experience with advanced giveaway features.
+Welcome to Freo, a versatile Discord bot designed to enhance your server experience with advanced giveaway features.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -22,7 +22,7 @@ Welcome to Flux, a versatile Discord bot designed to enhance your server experie
 - [License](#license)
 
 ## Introduction
-Flux is a powerful and customizable Discord bot that provides robust giveaway functionalities, advanced features to managing your server easier and more efficient.
+Freo is a powerful and customizable Discord bot that provides robust giveaway functionalities, advanced features to managing your server easier and more efficient.
 
 ## Features
 - Advanced Giveaway With Button Support
@@ -41,7 +41,7 @@ Flux is a powerful and customizable Discord bot that provides robust giveaway fu
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OG-Devcords/flux.git
+   git clone https://github.com/OG-Devcords/freo.git
    cd greethub
    ```
 
@@ -85,7 +85,7 @@ node index.js
 ```
 
 ## Try the Live Version
-You can invite the live version of GreetHub to your server using this [invite link](https://discord.com/oauth2/authorize?client_id=1043601146004115556&permissions=4397509640183&scope=bot%20applications.commands).
+You can invite the live version of Freo to your server using this [invite link](https://discord.com/oauth2/authorize?client_id=1043601146004115556&permissions=4397509640183&scope=bot%20applications.commands).
 
 ## Support
 If you enjoy using GreetHub, please consider supporting us by [voting on Top.gg](https://top.gg/bot/1043601146004115556/vote). Your votes help us reach more users and improve the bot!
