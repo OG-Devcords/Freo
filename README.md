@@ -1,6 +1,7 @@
 <h1 align="center"> Flux </h1>
 
-<img align="center" src="https://media.discordapp.net/attachments/1149027807054278666/1248015425590263910/20240606_020145.jpg?ex=66622070&is=6660cef0&hm=b2ba25badd5b0bd1390e3bb969da0fc2379ef73519091fec5dc3f47fcdb0f41f&">
+![20240607_030525](https://github.com/OG-Devcords/Freo/assets/108845911/95037eb9-1f8a-4c30-b34e-47d89de65a50)
+
 
 [![Discord](https://img.shields.io/discord/974995947379646534?label=Discord&logo=discord)](https://discord.com/invite/VDPp2g5ECU)
 [![GitHub stars](https://img.shields.io/github/stars/OG-Devcords/flux?style=social)](https://github.com/og-devcords/flux)
