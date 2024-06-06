@@ -23,7 +23,7 @@ module.exports = {
         .setImage("https://media.discordapp.net/attachments/1149027807054278666/1247996884535087275/standard.gif?ex=66620f2b&is=6660bdab&hm=381c63d52ce32acec6039bdc8c1f38df660527a106dbe98f7c492fcb7f5eb361&")
         .addFields(
         { name: "<:information:1247604953376227388> Information [4]", value: `${client.slashCommands.filter((cmd) => cmd.category === "info").sort((a, b) => a.name.localeCompare(b?.name)).map((cmd) => `\`${cmd.name}\``).join("︲") || "No slash command in this category"}`, inline: true},
-        { name: "<:rocket:1247604891321630751> Welcome [2]", value: `${client.slashCommands.filter((cmd) => cmd.category === "giveaway").sort((a, b) => a.name.localeCompare(b?.name)).map((cmd) => `\`${cmd.name}\``).join("︲") || "No slash command in this category"}`, inline: true}
+        { name: "<:rocket:1247604891321630751> Giveaway [2]", value: `${client.slashCommands.filter((cmd) => cmd.category === "giveaway").sort((a, b) => a.name.localeCompare(b?.name)).map((cmd) => `\`${cmd.name}\``).join("︲") || "No slash command in this category"}`, inline: true}
         )
         const row = new ActionRowBuilder()
         .addComponents(
